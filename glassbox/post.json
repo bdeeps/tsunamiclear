@@ -1,0 +1,126 @@
+{
+  "slug": "tsunamiclear",
+  "box": 100,
+  "question": "How does a tsunami happen?",
+  "url": "https://glassbox.how/e/tsunamiclear/",
+  "app": "https://glassbox.how/tsunamiclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a Greek historian's guess to sensors on the sea bed: how people learned what a tsunami is, and how to get out of its way.\n\n1755: Lisbon: quake, wave and fire\n1883: Krakatoa\n1945: The Makran tsunami reaches Mumbai\n1946: The Aleutian tsunami hits Hawaii\n1949: The first tsunami warning centre\n1960: Chile: the largest earthquake recorded\n\nThe full story, with 22 moments, sources and charts: glassbox.how/e/tsunamiclear/history (link in bio)\n\nThen play with how it works: glassbox.how/tsunamiclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #tsunami #earthquake #subduction #shallowwaterwaves #shoaling #greenslaw #history",
+      "youtube": {
+        "title": "The history of tsunamis and their warnings in 45 seconds #shorts",
+        "description": "From a Greek historian's guess to sensors on the sea bed: how people learned what a tsunami is, and how to get out of its way.\n\n1755 · Lisbon: quake, wave and fire (The people of Lisbon; the Marquis of Pombal)\n1883 · Krakatoa\n1945 · The Makran tsunami reaches Mumbai\n1946 · The Aleutian tsunami hits Hawaii\n1949 · The first tsunami warning centre (US Coast and Geodetic Survey)\n1960 · Chile: the largest earthquake recorded\n\n▶ Full history: https://glassbox.how/e/tsunamiclear/history/\n▶ Play with it: https://glassbox.how/e/tsunamiclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a tsunami happen?\n\nA tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.\n\n→ A tsunami starts on the sea floor. Two plates stick, and the upper one bends for centuries.\n→ Then it snaps up in a giant earthquake and lifts the whole sea above it.\n→ A wind wave only stirs the top of the sea. Deep down, the water is still.\n→ A tsunami moves the whole ocean, top to bottom, at √(g × h): over 700 km/h.\n→ 26 December 2004. The wave reached Aceh in minutes, India and Sri Lanka in about two hours.\n\nPlay with it yourself. It's free and open source: glassbox.how/tsunamiclear (link in bio)\n\nBox No. 100 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #tsunami #earthquake #subduction #shallowwaterwaves #shoaling #greenslaw #2004indianoceantsunami #earlywarning #incois",
+    "carousel": "Swipe through: How does a tsunami happen?\n\nA tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.\n\nSave this for later, then play with the interactive version at glassbox.how/tsunamiclear (link in bio).\n\nBox No. 100 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #tsunami #earthquake #subduction #shallowwaterwaves #shoaling #greenslaw",
+    "youtube": {
+      "title": "How does a tsunami happen? #shorts",
+      "description": "A tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.\n\n▶ Play with it: https://glassbox.how/e/tsunamiclear/\n⌘ Source code (MIT): https://github.com/bdeeps/tsunamiclear\n\nBox No. 100 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a tsunami happen? (interactive explainer)",
+      "description": "A tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.\n\n▶ Play with the interactive version: https://glassbox.how/e/tsunamiclear/\n⌘ Source code (MIT): https://github.com/bdeeps/tsunamiclear\n\nIn this video:\n• The sea floor moves. Off Sumatra one plate slides under another at a few centimetres a year.\n• A wave that moves the whole ocean. A wind wave stirs only the top of the sea.\n• Across the ocean in hours. On 26 December 2004 the wave reached Aceh and the Nicobar Islands within about 15 to 30 minutes, Sri Lanka and Tamil Nadu after about 2 hours (2 h 36 min at Chennai's tide gauge) and Somalia after about 7 hours.\n• It grows at the shore. In shallow water the wave slows and bunches up.\n• Warning systems. Earthquake waves travel about 40 times faster than the tsunami.\n• 2004, and what to do. About 2.3 lakh people died in 14 countries, more than 10,000 of them in India.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a tsunami happen?\n\nA tsunami is not a big wave from the wind and it has nothing to do with the tide.\n\nPlay with it: https://glassbox.how/e/tsunamiclear/",
+    "linkedin": "How does a tsunami happen?\n\nA tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.\n\n1. The sea floor moves\n2. A wave that moves the whole ocean\n3. Across the ocean in hours\n4. It grows at the shore\n5. Warning systems\n6. 2004, and what to do\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 100 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/tsunamiclear/\nCode: https://github.com/bdeeps/tsunamiclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-01T15:20:49.496Z"
+}

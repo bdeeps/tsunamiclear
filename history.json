@@ -1,0 +1,717 @@
+{
+  "title": "The history of tsunamis and their warnings",
+  "tagline": "From a Greek historian's guess to sensors on the sea bed: how people learned what a tsunami is, and how to get out of its way.",
+  "intro": "For most of history a tsunami came with no explanation and no warning. Lisbon in 1755 and Krakatoa in 1883 showed how far the waves could reach. A disaster in Hawaii in 1946 produced the first warning centre, for the Pacific only. The Indian Ocean had none on 26 December 2004. Since then India has built one of the fastest warning services in the world, and volcanoes at Anak Krakatau and Tonga have shown what still catches us out.",
+  "eras": [
+    {
+      "id": "early",
+      "name": "Waves without warning",
+      "from": -426,
+      "to": 1940,
+      "color": "#c49bff",
+      "summary": "Earthquakes and volcanoes are linked to great waves, Green finds the law of shoaling, and Japan's word for them spreads."
+    },
+    {
+      "id": "pacific",
+      "name": "The Pacific learns to warn",
+      "from": 1940,
+      "to": 2000,
+      "color": "#ffb547",
+      "summary": "After Hawaii is hit in 1946 the first warning centre is built. Chile and Alaska show how far and how fast the waves go."
+    },
+    {
+      "id": "modern",
+      "name": "The Indian Ocean and after",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Deep-sea sensors, the 2004 disaster, India's warning centre, Tohoku, and tsunamis from volcanoes."
+    }
+  ],
+  "events": [
+    {
+      "year": -426,
+      "date": "426 BCE",
+      "era": "early",
+      "art": "scroll",
+      "key": false,
+      "title": "An earthquake blamed for the sea",
+      "who": "Thucydides",
+      "where": "Malian Gulf",
+      "country": "Greece",
+      "text": "After the sea drew back and then flooded towns on the Greek coast, the historian Thucydides wrote that an earthquake must be the cause: without one, he said, he did not see how such a thing could happen.",
+      "why": "It is the earliest known written link between earthquakes and tsunamis.",
+      "box": "seafloor",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1755,
+      "date": "1 November 1755",
+      "era": "early",
+      "art": "building",
+      "key": true,
+      "title": "Lisbon: quake, wave and fire",
+      "who": "The people of Lisbon; the Marquis of Pombal",
+      "where": "Lisbon",
+      "country": "Portugal",
+      "text": "A great earthquake off Portugal wrecked Lisbon. Survivors who ran to the open harbour saw the sea draw back, and about 40 minutes later waves came in. Estimates put the dead at 30,000 to 50,000 in Portugal, Spain and Morocco. The waves crossed the Atlantic to the Caribbean. Afterwards the Marquis of Pombal sent every parish a list of questions about the shaking and the sea.",
+      "why": "Pombal's survey was one of the first scientific studies of an earthquake, and Lisbon showed Europe what a tsunami was.",
+      "box": "shoal",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1838,
+      "date": "1838",
+      "era": "early",
+      "art": "sinewave",
+      "key": false,
+      "title": "Green's law",
+      "who": "George Green",
+      "where": "Cambridge",
+      "country": "England",
+      "text": "The self-taught mathematician George Green worked out how a long wave changes as it moves along a channel whose depth slowly changes. Its height grows as the depth to the power of minus one quarter.",
+      "why": "Green's law is still the first estimate of how much a tsunami grows between the deep ocean and the shore.",
+      "box": "shoal",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "26–27 August 1883",
+      "era": "early",
+      "art": "mountain",
+      "key": true,
+      "title": "Krakatoa",
+      "who": "",
+      "where": "Sunda Strait",
+      "country": "Indonesia",
+      "text": "The volcano Krakatoa destroyed itself in a series of explosions. Tsunamis tens of metres high swept the coasts of Java and Sumatra. The official toll was 36,417 dead, most of them killed by the waves. Tide gauges as far away as the English Channel recorded the disturbance.",
+      "why": "It showed that volcanoes, not only earthquakes, can make deadly tsunamis.",
+      "box": "seafloor",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "15 June 1896",
+      "era": "early",
+      "art": "wave",
+      "key": false,
+      "title": "Sanriku, and a new word",
+      "who": "Eliza Scidmore (reporting)",
+      "where": "Sanriku coast",
+      "country": "Japan",
+      "text": "An earthquake that was only weakly felt on shore sent waves reported as up to 38 m high onto Japan's Sanriku coast, killing about 22,000 people. Fishermen out at sea noticed nothing and came home to ruined harbours. Reports of the disaster helped carry the Japanese word tsunami, harbour wave, into English.",
+      "why": "It is the classic case of a wave unnoticed at sea and deadly at the shore.",
+      "box": "deepwave",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "4 January 1907",
+      "era": "early",
+      "art": "person",
+      "key": false,
+      "title": "Simeulue learns smong",
+      "who": "The people of Simeulue",
+      "where": "Simeulue island, Aceh",
+      "country": "Indonesia",
+      "text": "A tsunami after an earthquake killed many people on Simeulue. The survivors turned the lesson into a story and a song, smong: when the ground shakes hard and the sea draws back, run to the hills.",
+      "why": "Ninety-seven years later that teaching saved almost the whole island.",
+      "box": "safe",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "26 June 1941",
+      "era": "pacific",
+      "art": "wave",
+      "key": false,
+      "title": "The Andaman earthquake",
+      "who": "",
+      "where": "Andaman Islands",
+      "country": "India",
+      "text": "A magnitude 7.7 to 8.1 earthquake struck the Andaman Islands. A tsunami of roughly a metre was reported on India's east coast and in Sri Lanka, though there were no tide-gauge records. A figure of 5,000 deaths is often repeated, but researchers have found no reliable source for it.",
+      "why": "It was a reminder, largely forgotten by 2004, that the Andaman trench can make tsunamis.",
+      "box": "across",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "28 November 1945",
+      "era": "pacific",
+      "art": "wave",
+      "key": true,
+      "title": "The Makran tsunami reaches Mumbai",
+      "who": "",
+      "where": "Makran coast, Arabian Sea",
+      "country": "Pakistan",
+      "text": "A magnitude 8.1 earthquake off the Makran coast sent waves reported as up to 12–15 m onto what is now Pakistan. Death tolls in the catalogues range from a few hundred to about 4,000. Hours later a wave of about 2 m reached Bombay, where newspapers reported about a dozen people drowned, some at Versova.",
+      "why": "It is the last big tsunami on India's west coast, and the reason the Arabian Sea is watched too.",
+      "box": "across",
+      "sources": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1 April 1946",
+      "era": "pacific",
+      "art": "wave",
+      "key": true,
+      "title": "The Aleutian tsunami hits Hawaii",
+      "who": "",
+      "where": "Unimak Island, Alaska, and Hilo, Hawaii",
+      "country": "USA",
+      "text": "A magnitude 8.6 earthquake in the Aleutian Islands destroyed the Scotch Cap lighthouse and its five keepers. Nearly five hours later, with no warning, the waves reached Hawaii and killed 159 people, 96 of them in Hilo.",
+      "why": "Five hours had been enough time to warn everyone. The disaster led directly to the first warning system.",
+      "box": "warning",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "pacific",
+      "art": "computer",
+      "key": true,
+      "title": "The first tsunami warning centre",
+      "who": "US Coast and Geodetic Survey",
+      "where": "Ewa Beach, Hawaii",
+      "country": "USA",
+      "text": "The United States set up a tsunami warning service in Hawaii, using seismographs to detect big earthquakes and tide gauges to confirm waves. It grew into the Pacific Tsunami Warning Center, which after 1965 served countries all round the Pacific.",
+      "why": "It proved that a far-off tsunami can be forecast hours ahead.",
+      "box": "warning",
+      "sources": [
+        11,
+        10
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "9 July 1958",
+      "era": "pacific",
+      "art": "mountain",
+      "key": false,
+      "title": "Lituya Bay: 524 metres",
+      "who": "",
+      "where": "Lituya Bay, Alaska",
+      "country": "USA",
+      "text": "An earthquake shook a mass of rock off a mountainside into a narrow Alaskan inlet. The splash stripped trees from the opposite slope up to 524 m above the water, the highest wave run-up ever recorded. Outside the bay the wave soon faded.",
+      "why": "It shows what landslide tsunamis are like: enormous close by, and short-lived.",
+      "box": "seafloor",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "22 May 1960",
+      "era": "pacific",
+      "art": "earth",
+      "key": true,
+      "title": "Chile: the largest earthquake recorded",
+      "who": "",
+      "where": "Valdivia",
+      "country": "Chile",
+      "text": "A magnitude 9.4–9.6 earthquake, the largest ever recorded, broke about 800 km of the Chilean subduction zone. Waves up to 25 m hit Chile. The tsunami crossed the whole Pacific, killing 61 people in Hilo, Hawaii, and many more in Japan, almost a day later.",
+      "why": "A tsunami can kill on the far side of an ocean, so warnings have to be international.",
+      "box": "across",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "27 March 1964",
+      "era": "pacific",
+      "art": "wave",
+      "key": false,
+      "title": "The Good Friday earthquake",
+      "who": "",
+      "where": "Prince William Sound, Alaska",
+      "country": "USA",
+      "text": "A magnitude 9.2 earthquake shook Alaska for more than four minutes. Of about 139 deaths, about 124 were caused by tsunamis, some set off by local undersea landslides within minutes, and some as far away as Crescent City in California.",
+      "why": "It led to a second US warning centre, in Alaska, for coasts close to the source.",
+      "box": "warning",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "modern",
+      "art": "boat",
+      "key": false,
+      "title": "Sensors on the deep sea bed",
+      "who": "NOAA Pacific Marine Environmental Laboratory",
+      "where": "Pacific Ocean",
+      "country": "USA",
+      "text": "The first array of six DART stations went into service in the northern Pacific: pressure recorders on the sea bed, each linked by sound to a buoy and by satellite to shore. They can resolve about a millimetre of sea-level change under several kilometres of water.",
+      "why": "For the first time a warning centre could see the wave itself, not just the earthquake.",
+      "box": "warning",
+      "sources": [
+        15,
+        32
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "26 December 2004",
+      "era": "modern",
+      "art": "wave",
+      "key": true,
+      "title": "The Indian Ocean tsunami",
+      "who": "",
+      "where": "Off Sumatra; 14 countries",
+      "country": "Indonesia",
+      "text": "A magnitude 9.1–9.3 earthquake broke about 1,300 km of the Sunda Trench. With no warning system in the Indian Ocean, waves killed about 2.3 lakh people in 14 countries, most in Aceh. In India the official count was about 10,700 dead and 5,600 missing, in Tamil Nadu, the Andaman and Nicobar Islands, Puducherry, Kerala and Andhra Pradesh. On Simeulue, and on a beach in Phuket where ten-year-old Tilly Smith recognised the signs, people who knew what to do survived. Later studies argued over how far mangroves and shelter belts had protected villages; distance from the sea and the height of the land mattered most.",
+      "why": "The deadliest tsunami in recorded history, and the reason the Indian Ocean now has a warning system.",
+      "box": "safe",
+      "sources": [
+        16,
+        17,
+        18,
+        19,
+        30,
+        31
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005–2006",
+      "era": "modern",
+      "art": "earth",
+      "key": false,
+      "title": "An Indian Ocean system is agreed",
+      "who": "UNESCO Intergovernmental Oceanographic Commission",
+      "where": "Indian Ocean",
+      "country": "International",
+      "text": "Within months of the disaster, countries around the Indian Ocean agreed through UNESCO to build a shared warning system. It began working in 2006, with national centres exchanging earthquake and sea-level data.",
+      "why": "It closed the gap that had left the Indian Ocean unwarned in 2004.",
+      "box": "warning",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "15 October 2007",
+      "era": "modern",
+      "art": "computer",
+      "key": true,
+      "title": "India's tsunami warning centre opens",
+      "who": "INCOIS, Ministry of Earth Sciences",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "The Indian Tsunami Early Warning Centre was inaugurated at INCOIS. It takes in data from seismic stations, sea-bed pressure recorders and tide gauges, matches each big undersea quake to a library of pre-computed scenarios and sends a first bulletin in about ten minutes. It now also advises other Indian Ocean countries.",
+      "why": "India's coast went from no warning at all to one of the world's fastest services.",
+      "box": "warning",
+      "sources": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "11 March 2011",
+      "era": "modern",
+      "art": "wave",
+      "key": true,
+      "title": "Tohoku and Fukushima",
+      "who": "",
+      "where": "Tohoku coast",
+      "country": "Japan",
+      "text": "A magnitude 9.0–9.1 earthquake off Japan sent a tsunami that ran up to 40.5 m at Miyako and overtopped sea walls built for smaller waves. About 19,750 people died and about 2,550 are still missing. The flood knocked out cooling at the Fukushima Daiichi nuclear plant, where three reactors melted down.",
+      "why": "Even the best-prepared country can be surprised: walls and warnings must allow for the rare giant.",
+      "box": "shoal",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "28 September 2018",
+      "era": "modern",
+      "art": "wave",
+      "key": false,
+      "title": "Palu: a wave within minutes",
+      "who": "",
+      "where": "Palu, Sulawesi",
+      "country": "Indonesia",
+      "text": "A magnitude 7.5 earthquake on a sideways-slipping fault, a kind not expected to make large tsunamis, was followed within minutes by waves 5 m and more in Palu Bay, probably helped by undersea landslides. About 4,340 people died in the quake, tsunami and ground liquefaction.",
+      "why": "Near the source there is no time for an official warning: the shaking has to be the signal.",
+      "box": "safe",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "22 December 2018",
+      "era": "modern",
+      "art": "mountain",
+      "key": true,
+      "title": "Anak Krakatau collapses",
+      "who": "",
+      "where": "Sunda Strait",
+      "country": "Indonesia",
+      "text": "Part of the volcano Anak Krakatau slid into the sea at night. With no earthquake to trigger the warning system, waves reached the beaches of Java and Sumatra in about half an hour and killed more than 420 people.",
+      "why": "It exposed a gap: warning systems built around earthquakes can miss volcano and landslide tsunamis.",
+      "box": "seafloor",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "7 August 2020",
+      "era": "modern",
+      "art": "person",
+      "key": false,
+      "title": "India’s first Tsunami Ready villages",
+      "who": "INCOIS, Odisha State Disaster Management Authority, UNESCO-IOC",
+      "where": "Venkatraipur and Noliasahi, Odisha",
+      "country": "India",
+      "text": "Venkatraipur and Noliasahi, two coastal villages in Odisha, were recognised by UNESCO's Intergovernmental Oceanographic Commission as Tsunami Ready, the first communities in the Indian Ocean region, after mapping evacuation routes, putting up signs and holding drills.",
+      "why": "A warning only saves lives if the people who receive it know where to go.",
+      "box": "safe",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "15 January 2022",
+      "era": "modern",
+      "art": "mountain",
+      "key": true,
+      "title": "The Tonga eruption",
+      "who": "",
+      "where": "Hunga Tonga–Hunga Haʻapai",
+      "country": "Tonga",
+      "text": "An undersea volcano erupted with a plume about 58 km high. Waves up to 15–18 m hit parts of Tonga, and a pressure wave in the air raced round the world, raising small tsunamis in oceans far away, sooner than models of the sea alone predicted. Two people drowned in Peru, 10,000 km away.",
+      "why": "It showed a new way for a tsunami to travel, and sent forecasters back to their models.",
+      "box": "seafloor",
+      "sources": [
+        28
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written link between earthquakes and tsunamis",
+      "value": "426 BCE",
+      "who": "Thucydides, Greece"
+    },
+    {
+      "label": "Law for how a long wave grows in shallow water",
+      "value": "1838",
+      "who": "George Green, England"
+    },
+    {
+      "label": "First tsunami warning centre",
+      "value": "1949",
+      "who": "US Coast and Geodetic Survey, Hawaii"
+    },
+    {
+      "label": "Largest earthquake recorded",
+      "value": "1960",
+      "who": "Valdivia, Chile, magnitude about 9.5"
+    },
+    {
+      "label": "Highest wave run-up recorded",
+      "value": "1958",
+      "who": "Lituya Bay, Alaska, 524 m"
+    },
+    {
+      "label": "India's tsunami warning centre",
+      "value": "2007",
+      "who": "INCOIS, Hyderabad"
+    }
+  ],
+  "people": [
+    {
+      "name": "Thucydides",
+      "life": "c. 460 – c. 400 BCE",
+      "role": "Historian",
+      "from": "Greece",
+      "note": "First to write that earthquakes cause the sea to flood the land."
+    },
+    {
+      "name": "Sebastião de Carvalho, Marquis of Pombal",
+      "life": "1699 – 1782",
+      "role": "Chief minister of Portugal",
+      "from": "Portugal",
+      "note": "Surveyed every parish after the 1755 Lisbon earthquake, an early scientific study of a quake and its waves."
+    },
+    {
+      "name": "George Green",
+      "life": "1793 – 1841",
+      "role": "Mathematician and miller",
+      "from": "England",
+      "note": "Found the law for how a long wave's height changes with depth."
+    },
+    {
+      "name": "Eliza Scidmore",
+      "life": "1856 – 1928",
+      "role": "Writer and geographer",
+      "from": "USA",
+      "note": "Reported the 1896 Sanriku disaster for National Geographic, helping bring the word tsunami into English."
+    },
+    {
+      "name": "Hiroo Kanamori",
+      "life": "born 1936",
+      "role": "Seismologist",
+      "from": "Japan",
+      "note": "Developed the moment magnitude scale, which measures the giant quakes that make tsunamis."
+    },
+    {
+      "name": "The people of Simeulue",
+      "life": "since 1907",
+      "role": "Keepers of smong",
+      "from": "Indonesia",
+      "note": "Passed down the teaching to run to the hills, which saved their island in 2004."
+    }
+  ],
+  "series": [
+    {
+      "id": "magnitude",
+      "title": "Earthquakes behind the great ocean-crossing tsunamis",
+      "unit": "Mw",
+      "log": false,
+      "after": "pacific",
+      "caption": "Moment magnitude of the earthquakes in this story. Each whole step is about 32 times the energy. The 1755 figure is an estimate from damage reports.",
+      "points": [
+        {
+          "year": 1755,
+          "value": 8.5,
+          "label": "Lisbon: estimated 7.7 to 9"
+        },
+        {
+          "year": 1945,
+          "value": 8.1,
+          "label": "Makran: 8.1"
+        },
+        {
+          "year": 1946,
+          "value": 8.6,
+          "label": "Aleutian Islands: 8.6"
+        },
+        {
+          "year": 1960,
+          "value": 9.5,
+          "label": "Chile: about 9.5"
+        },
+        {
+          "year": 1964,
+          "value": 9.2,
+          "label": "Alaska: 9.2"
+        },
+        {
+          "year": 2004,
+          "value": 9.1,
+          "label": "Sumatra–Andaman: 9.1 to 9.3"
+        },
+        {
+          "year": 2011,
+          "value": 9.1,
+          "label": "Tohoku: 9.0 to 9.1"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "In 4,000 m of water a tsunami travels at about 713 km/h, yet the water itself drifts at only a centimetre or two a second.",
+    "A satellite measured the 2004 tsunami in mid-ocean two hours after the quake: it was about 60 cm high.",
+    "The 2004 earthquake went on for about ten minutes, long enough for the break to run 1,300 km.",
+    "A sea-bed pressure recorder under several kilometres of water can resolve about a millimetre of change in sea level.",
+    "Tsunami means harbour wave in Japanese: fishermen who felt nothing at sea came home to wrecked harbours."
+  ],
+  "sources": [
+    {
+      "title": "Tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsunami"
+    },
+    {
+      "title": "1755 Lisbon earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake"
+    },
+    {
+      "title": "Green's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Green%27s_law"
+    },
+    {
+      "title": "1883 eruption of Krakatoa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+    },
+    {
+      "title": "1896 Sanriku earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1896_Sanriku_earthquake"
+    },
+    {
+      "title": "Smong",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smong"
+    },
+    {
+      "title": "1941 Andaman Islands earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1941_Andaman_Islands_earthquake"
+    },
+    {
+      "title": "1945 Balochistan earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1945_Balochistan_earthquake"
+    },
+    {
+      "title": "Remembering the 1945 Makran tsunami: interviews with survivors beside the Arabian Sea",
+      "publisher": "UNESCO-IOC",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000232549"
+    },
+    {
+      "title": "Elders recall an earlier tsunami on Indian Ocean shores",
+      "publisher": "Eos (AGU)",
+      "url": "https://eos.org/features/elders-recall-earlier-tsunami-indian-ocean-shores"
+    },
+    {
+      "title": "1946 Aleutian Islands earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1946_Aleutian_Islands_earthquake"
+    },
+    {
+      "title": "Pacific Tsunami Warning Center",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pacific_Tsunami_Warning_Center"
+    },
+    {
+      "title": "1958 Lituya Bay earthquake and megatsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+    },
+    {
+      "title": "1960 Valdivia earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+    },
+    {
+      "title": "1964 Alaska earthquake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1964_Alaska_earthquake"
+    },
+    {
+      "title": "Deep-ocean Assessment and Reporting of Tsunamis (DART)",
+      "publisher": "NOAA National Data Buoy Center",
+      "url": "https://www.ndbc.noaa.gov/dart/dart.shtml"
+    },
+    {
+      "title": "2004 Indian Ocean earthquake and tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+    },
+    {
+      "title": "M 9.1 – 2004 Sumatra–Andaman Islands earthquake",
+      "publisher": "US Geological Survey",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30"
+    },
+    {
+      "title": "Effect of the 2004 Indian Ocean earthquake on India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Effect_of_the_2004_Indian_Ocean_earthquake_on_India"
+    },
+    {
+      "title": "Tilly Smith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tilly_Smith"
+    },
+    {
+      "title": "Indian Ocean Tsunami Warning System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_Ocean_Tsunami_Warning_System"
+    },
+    {
+      "title": "Indian Tsunami Early Warning Centre",
+      "publisher": "INCOIS, Ministry of Earth Sciences",
+      "url": "https://tsunami.incois.gov.in"
+    },
+    {
+      "title": "Indian National Centre for Ocean Information Services",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_National_Centre_for_Ocean_Information_Services"
+    },
+    {
+      "title": "Tsunami",
+      "publisher": "National Disaster Management Authority",
+      "url": "https://ndma.gov.in/Natural-Hazards/Tsunami"
+    },
+    {
+      "title": "National Disaster Management Guidelines: Management of Tsunamis",
+      "publisher": "NDMA / NIDM",
+      "url": "https://nidm.gov.in/PDF/pubs/NDMA/10.pdf"
+    },
+    {
+      "title": "2011 Tōhoku earthquake and tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami"
+    },
+    {
+      "title": "2018 Sulawesi earthquake and tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2018_Sulawesi_earthquake_and_tsunami"
+    },
+    {
+      "title": "2018 Sunda Strait tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2018_Sunda_Strait_tsunami"
+    },
+    {
+      "title": "2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami"
+    },
+    {
+      "title": "Communities in Odisha State, India, receive Tsunami Ready recognition",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/communities-odisha-state-india-receive-tsunami-ready-recognition"
+    },
+    {
+      "title": "The Asian tsunami: a protective role for coastal vegetation (Danielsen et al. 2005)",
+      "publisher": "Science",
+      "url": "https://doi.org/10.1126/science.1118387"
+    },
+    {
+      "title": "Mangroves mitigate tsunami damage: a further response",
+      "publisher": "Estuarine, Coastal and Shelf Science",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0272771406001673"
+    },
+    {
+      "title": "Deep-ocean Assessment and Reporting of Tsunamis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "tsunamiclear",
+  "box": 100,
+  "date": "2026-10-04",
+  "title": "TsunamiClear",
+  "question": "How does a tsunami happen?",
+  "hook": "A tsunami is not a big wave from the wind and it has nothing to do with the tide. The sea floor jumps, the whole ocean moves, and a low, fast wave crosses it at the speed of a jet. Break the fault yourself, follow the 2004 wave across the Indian Ocean, watch it grow at the shore, and learn the three signs that mean go to high ground.",
+  "thumbText": "HOW A TSUNAMI HAPPENS",
+  "field": "nature",
+  "minutes": 16,
+  "tags": [
+    "tsunami",
+    "earthquake",
+    "subduction",
+    "shallow-water waves",
+    "shoaling",
+    "Green's law",
+    "2004 Indian Ocean tsunami",
+    "early warning",
+    "INCOIS",
+    "disaster safety",
+    "nature",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "The sea floor moves",
+      "text": "Off Sumatra one plate slides under another at a few centimetres a year. The edges stick and the upper plate bends for centuries, then snaps up in a megathrust earthquake. In 2004 the fault broke along about 1,300 km and lifted the sea floor by several metres, and all the water above it. Landslides and volcanoes can do the same on a smaller scale."
+    },
+    {
+      "title": "A wave that moves the whole ocean",
+      "text": "A wind wave stirs only the top of the sea. A tsunami is hundreds of kilometres long, so the whole depth moves and its speed depends only on depth: c = √(g × h). In 4,000 m that is 198 m/s, about 713 km/h. Out there it is under a metre high and a ship would not notice it."
+    },
+    {
+      "title": "Across the ocean in hours",
+      "text": "On 26 December 2004 the wave reached Aceh and the Nicobar Islands within about 15 to 30 minutes, Sri Lanka and Tamil Nadu after about 2 hours (2 h 36 min at Chennai's tide gauge) and Somalia after about 7 hours. Fronts bend towards shallow water and wrap around islands."
+    },
+    {
+      "title": "It grows at the shore",
+      "text": "In shallow water the wave slows and bunches up. Green's law says its height grows as depth to the power −¼: about 4.5 times from 4,000 m to 10 m. It arrives as a fast-rising flood, in several waves over hours, and the first is often not the largest. If a trough comes first the sea pulls back: a warning."
+    },
+    {
+      "title": "Warning systems",
+      "text": "Earthquake waves travel about 40 times faster than the tsunami. Seismometers size the quake, sea-bed pressure recorders confirm the wave and tide gauges measure it. India's Tsunami Early Warning Centre at INCOIS, Hyderabad, running since 2007, sends a first bulletin in about 10 minutes. In 2004 the Indian Ocean had no such system."
+    },
+    {
+      "title": "2004, and what to do",
+      "text": "About 2.3 lakh people died in 14 countries, more than 10,000 of them in India. People who knew the signs lived: Simeulue's islanders, the Moken, a ten-year-old on a Phuket beach. A strong or long quake at the coast, the sea pulling back, or a roar from the sea means go to high ground at once and stay there for hours. Emergency 112, NDMA 1078."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Tsunami",
+      "def": "A series of very long waves made when a large volume of sea is suddenly moved, usually by an undersea earthquake."
+    },
+    {
+      "term": "Subduction zone",
+      "def": "Where one plate of the Earth's crust slides under another. Most great tsunami-making earthquakes happen here."
+    },
+    {
+      "term": "Shallow-water wave",
+      "def": "A wave much longer than the water is deep. Its speed is √(g × h) and the whole depth moves."
+    },
+    {
+      "term": "Shoaling",
+      "def": "A wave slowing and growing taller as the water gets shallower."
+    },
+    {
+      "term": "Green's law",
+      "def": "Wave height grows as depth to the power −¼, so long as the wave does not break."
+    },
+    {
+      "term": "Drawback",
+      "def": "The sea draining away from the shore when a tsunami's trough arrives first. A natural warning."
+    },
+    {
+      "term": "Storm surge",
+      "def": "Sea piled up against a coast by a cyclone's wind and low pressure. It is not a tsunami."
+    },
+    {
+      "term": "Bottom pressure recorder",
+      "def": "A sea-bed sensor that detects a passing tsunami from the tiny rise in water pressure."
+    },
+    {
+      "term": "INCOIS",
+      "def": "Indian National Centre for Ocean Information Services, Hyderabad, home of India's tsunami warning centre."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "tsunamiclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
